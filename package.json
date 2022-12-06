@@ -19,7 +19,7 @@
   "homepage": "https://github.com/tonyc417/Stock-Wallet#readme",
   "dependencies": {
     "concurrently": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "path": "^0.12.7"
   }
 }
